@@ -3,3 +3,5 @@ This is a monomer-dimer conversion model used for initial exploration of kinetic
 This model is used a demonstration of data provided in Centromeres are Stress-Induced Fragile Sites (Kolbin et al.)
 
 To utilize the code, run the cells sequentially. For testing out different values, simply change the corresponding value when calling the function.
+
+To cite, please use: https://doi.org/10.5281/zenodo.14728490
